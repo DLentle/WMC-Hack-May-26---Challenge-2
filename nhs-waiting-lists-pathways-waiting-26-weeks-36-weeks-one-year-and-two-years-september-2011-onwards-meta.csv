@@ -1,0 +1,28 @@
+﻿"Dataset title","NHS waiting lists: pathways waiting 26 weeks, 36 weeks, one year and two years, September 2011 onwards"
+"Most recent update","23 April 2026"
+"Next update expected","21 May 2026"
+"Designation","Accredited official statistics"
+"Data provider","Digital Health and Care Wales (DHCW)"
+"Data source","Referral to Treatment Times (RTT)"
+"Summary of dataset and variables","Information on referral to treatment (RTT) waiting times, reported by Local Health Boards. Data cover the period of time from referral by a GP or other medical practitioner to hospital for treatment in the NHS in Wales. Waiting times include time spent waiting for any hospital appointments, tests, scans or other procedures that may be needed before being treated.
+"
+"Data collection or calculation","Data are drawn from Local Health Board administrative systems relating to the management of patients who have been referred for hospital treatment. Data are reported monthly by Local Health Boards via Digital Health and Care Wales (DHCW). The data collection has been in place since April 2007.
+
+A referral to treatment (RTT) pathway covers the time waiting from referral to hospital for treatment and includes time spent waiting for any hospital appointments, tests, scans or other procedures that may be needed before being treated.
+
+In April 2019 health service provision for residents of Bridgend local authority moved from Abertawe Bro Morgannwg to Cwm Taf. The health board names changed, with Cwm Taf University Health Board becoming Cwm Taf Morgannwg University Health Board, and Abertawe Bro Morgannwg University Health Board becoming Swansea Bay University Health Board.
+"
+"Statistical quality","Data definitions and standards are mandated by the Welsh Information Standards Board (WISB).
+
+A patient pathway opens, and a waiting time begins, at the point a hospital receives a referral. Referrals are most commonly submitted by GPs but may also come from other health care professionals. The figures are based on a count of the number of patient pathways which are open at the end of each month. This can be thought of as ‘the waiting list’.
+
+Patient pathways are closed if either the patient starts treatment, or if it is determined no hospital treatment is necessary. This could include: patient admitted to hospital for an operation or treatment; starting treatment that does not need a stay in hospital (for example, medication or physiotherapy); beginning the fitting of a medical device such as leg braces; starting an agreed period of time to monitor the patient’s condition to assess the need for further treatment.
+
+The number of patient pathways is not the same as the number of individual patients waiting. This is because some patients, for example those with complex needs, have multiple open pathways.
+"
+"Related reports","NHS activity and performance summary: quality report [English]","https://www.gov.wales/nhs-activity-and-performance-summary-quality-report"
+"Related reports","NHS activity and performance summary, statistical release [English]","https://www.gov.wales/nhs-activity-and-performance-summary"
+"Related reports","NHS activity and performance summary: quality report [Welsh]","https://www.llyw.cymru/crynodeb-perfformiad-gweithgaredd-y-gig-adroddiad-ansawdd"
+"Related reports","NHS activity and performance summary, statistical release [Welsh]","https://www.llyw.cymru/crynodeb-perfformiad-gweithgaredd-y-gig"
+"Organisation","Welsh Government"
+"Contact email","stats.healthinfo@gov.wales"
