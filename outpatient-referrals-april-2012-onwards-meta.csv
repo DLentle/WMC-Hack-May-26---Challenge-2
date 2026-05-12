@@ -1,0 +1,52 @@
+﻿Dataset title,"Outpatient referrals, April 2012 onwards",
+Most recent update,23-Apr-26,
+Next update expected,21-May-26,
+Designation,Accredited official statistics,
+Time period covered,April 2012 to February 2026,
+Data provider,Digital Health and Care Wales (DHCW),
+Data source,Outpatient Referral Dataset (OPR),
+Summary of dataset and variables,"This table provides the total outpatient referrals made each month.
+
+‘GP referrals’ cover both referrals from General Medical Practitioners and General Dental Practitioners.
+
+Resubmissions of the Referrals data in the Outpatient Referrals Dataset (OPR DS) occur each month. As a result, data in the release and Stats Wales is revised to reflect this. Please see the latest release for the impact of the revisions.",
+Data collection or calculation,"Please find this information in the related statistical release, as per the given weblink.
+
+New treatment function codes were introduced in April 2016 but were not used consistently across all Local Health Boards initially; for example, patients receiving vascular surgery may have been recorded in either “General Surgery” or “Vascular Surgery” treatment functions. To reduce uncertainty and make counts more reliable, the new treatment function codes were removed temporarily and treatment functions were recorded under the more general headings until consistent recording of the treatment functions was confirmed across all Local Health Boards. This was actioned back to April 2016.
+       
+The new treatment function codes which were announced in April 2016 have not been used consistently by health boards, so to date, any data submitted for a new code has been recoded to the pre-April 2016 codes. However, from June 2019 some health boards have submitted data for the new Respiratory Physiology treatment function code, which will be published to reflect the current pilot period for reporting sleep disordered breathing service. Note that while this data is being published to support this pilot, the data is still not being consistently reported by health boards so caution is advised when using this data.
+
+From 1st April 2019, health service provision for residents of Bridgend local authority moved from Abertawe Bro Morgannwg to Cwm Taf. The health board names changed, with Cwm Taf University Health Board becoming Cwm Taf Morgannwg University Health Board, and Abertawe Bro Morgannwg University Health Board becoming Swansea Bay University Health Board. For more information, refer to the statement from the Minister for Health and Social Services (see ‘Related Reports’).
+ 
+Referrals for Audiology were reported from May 2022 onwards.
+
+Referrals for Dementia Assessment Service were reported from August 2022 onwards.
+
+Referrals for Podiatric Surgery were reported from April 2023 onwards.
+
+Referrals for Optometry were reported from October 2023 onwards.
+
+Referrals for Paediatric Epilepsy were reported from November 2023 onwards.
+
+Referrals for Paediatric Gastroenterology, Paediatric Dermatology, and Paediatric Diabetic Medicine were reported from December 2023 onwards.
+
+Referrals for Eating Disorder Service were reported from August 2025 onwards.",
+Statistical quality,"Please find this information in the related statistical release, as per the given weblink.
+
+Please note that the data included in this dataset covers a time period during the coronavirus (COVID-19) pandemic, which affected both how some NHS services were offered as well as people's choices regarding health services. See the latest release for more information.
+
+From April 2016, there has been a change in the treatment function codes submitted by the local health boards; this includes the cessation of the nursing treatment function. Whilst the other changes are likely to result in movements between different codes, the nursing treatment function affects Cwm Taf University LHB in particular as it was the only health board to submit a large number of referrals for that code (around 2,000 in March 2016, the last month when data was submitted).
+
+‘Clinical Neurophysiology’ was previously known as 'Obstetrics (for patients using a bed)'. Prior to April 2016, some outpatient referrals were incorrectly recorded under this treatment function. In other instances, the definition of 'patients using a bed' may have been misinterpreted.
+
+In response to the COVID-19 pandemic, Cwm Taf Morgannwg set up a new service code to capture antibody testing and research. This resulted in a rise in the number of referrals for infectious diseases in July 2020.
+
+Hywel Dda did not submit any data for mental health treatment codes from August 2020 due to the Mental Health Migration project. In the months following the pandemic, this accounted for between 90 to 180 referrals, but before the pandemic, this would have accounted for around 240 referrals a month.",
+Related reports,NHS activity and performance summary [English],https://www.gov.wales/nhs-activity-and-performance-summary
+Related reports,NHS activity and performance summary: quality report [English],https://www.gov.wales/nhs-activity-and-performance-summary-quality-report
+Related reports,Written statement: Health Board boundary Bridgend: associated planning [English],https://www.gov.wales/written-statement-health-board-boundary-bridgend-associated-planning
+Related reports,NHS activity and performance summary [Welsh],https://www.llyw.cymru/crynodeb-perfformiad-gweithgaredd-y-gig
+Related reports,NHS activity and performance summary: quality report [Welsh],https://www.llyw.cymru/crynodeb-perfformiad-gweithgaredd-y-gig-adroddiad-ansawdd
+Related reports,Written statement: Health Board boundary Bridgend: associated planning [Welsh],https://www.llyw.cymru/datganiad-ysgrifenedig-ffin-y-byrddau-iechyd-ym-mhen-y-bont-ar-ogwr-cynllunio-cysylltiol
+Organisation,Welsh Government,
+Contact email,stats.healthinfo@gov.wales,
