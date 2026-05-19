@@ -18,3 +18,6 @@ A file for waiting list data (26 weeks, 36 weeks, one year and two years) filter
 
 The monthly GP prescribing data can be downloaded here:
 https://nwssp.nhs.wales/ourservices/primary-care-services/general-information/data-and-publications/prescribing-data-extracts/general-practice-prescribing-data-extract/
+
+Health board population estimates:
+https://stats.gov.wales/en-GB/f7c81eb8-cf29-4d14-b964-04c155527e4d/filtered/wdl8da3qby53?page_size=25#dataset-nav
